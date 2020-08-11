@@ -13,6 +13,8 @@ Some topics I will cover here are:
 * Service Discovery
 * Configuration Mangement Tools
 * CMDB
+* Project Management, should I learn it?
+* The QA way
 * How to build your (internal) Cloud Service
 * Physical server vs VM vs Container. Which one is better?
 * Scaling my service, how I should scale it?
