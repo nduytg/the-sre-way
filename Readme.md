@@ -11,6 +11,7 @@ Some topics I will cover here are:
 
 * Load Balancing
 * Service Discovery
+* Configuration Mangement Tools
 * CMDB
 * How to build your (internal) Cloud Service
 * Physical server vs VM vs Container. Which one is better?
@@ -23,3 +24,15 @@ Some topics I will cover here are:
 # Introduction
 
 Due to the nature of SRE teams, the services we provide mostly are internal services and platforms. Some of them are just simple APIs for managing services. Some ...
+
+In this guide, we won't talk much about low-level technical details. We will focus more on principles, processes and standards. Which I believe are the most important things for any engineer teams.
+
+Really hope that this guide can help you. Regardless whatever team size or how mature your team is. I think you will encounter at least 3 common issues I list above.
+
+# Reference
+
+System Design Primer: https://github.com/donnemartin/system-design-primer
+
+Coding Interview University: https://github.com/jwasham/coding-interview-university
+
+Google's SRE Books: https://landing.google.com/sre/books/
