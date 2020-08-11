@@ -9,6 +9,7 @@ At my work, I have encountered many issues/questions (which I think are quite co
 
 Some topics I will cover here are:
 
+* Should I buy or build a solution?
 * Load Balancing
 * Service Discovery
 * Configuration Mangement Tools
@@ -19,8 +20,9 @@ Some topics I will cover here are:
 * Physical server vs VM vs Container. Which one is better?
 * Scaling my service, how I should scale it?
 * Is Document as Code good?
+* Should we build an agent? The cost
 * Why we should use Pipeline as much as we can?
-* How we should manage the repos for our tools? Monolith or...?
+* How to maintain your source of truth? Monolith or...?
 * ... if you have any interesting topics/questions, can open a new issue, we can discuss it together :D
 
 # Introduction
